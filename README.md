@@ -42,3 +42,7 @@ _No alla politica chiusa, sì alla trasparenza e alla partecipazione._
 
 - **Applicare il modello**  
   Incoraggia istituzioni e organizzazioni ad adottare la governance open-source.
+
+
+
+
